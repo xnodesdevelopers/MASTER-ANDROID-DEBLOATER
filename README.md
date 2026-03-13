@@ -10,7 +10,6 @@
 ```
 
 # MASTER ANDROID DEBLOATER
-### *Magic Edition v3.0*
 
 **The most aggressive, safest, deepest Android optimization script ever written.**
 Custom ROM level performance. Zero root. Zero knowledge required.
