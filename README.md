@@ -441,5 +441,8 @@ This script is built on deep research across:
 *Free to use. Free to share. Give your phone the OS it deserved from the factory.*
 
 ---
+<br>
 
+<h1>Developer </h1>
+<b><table><tr><th>Ｔｈａｒｉｎｄｕ　Ｌｉｙａｎａｇｅ　（Ｓａｎｋｕ）</th></tr><a href="https://github.com/"><img src="https://i.ibb.co/5t0yMZm/Picsart-26-01-20-16-26-45-304-1.jpg" width="180"></td></tr></table></b>
 </div>
